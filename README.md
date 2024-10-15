@@ -1,4 +1,4 @@
-# Unicorn Backend Web Application
+# Unicorn Backend Web MVC Application
 
 This repository contains the three-layer backend web application (unicorn-simple), refactored to hexagonal architecture.
 
